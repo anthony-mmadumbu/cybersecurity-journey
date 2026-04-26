@@ -1,5 +1,7 @@
 🛡️ Network Fundamentals – TryHackMe
+
 Module 2 · Rooms: What is Networking? & Intro to LAN
+
 📅 DATE
 28 April 2026. Day 4
 📚 WHAT I LEARNED
