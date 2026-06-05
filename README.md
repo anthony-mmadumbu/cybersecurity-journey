@@ -7,8 +7,11 @@ with a CompTIA Security+ certification and hands-on lab experience.
 ## Certifications
 - CompTIA Security+ (Passed March 2026)
 
-## Current Focus
+## Achieved/com[pleted Focus
 - TryHackMe Pre-Security Path
+  
+## Current Focus
+- SOC Level 1
 - Building hands-on practical skills
 
 ## Goals
